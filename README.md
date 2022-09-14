@@ -5,6 +5,11 @@ week 8 longitude latitude
 ![latitude longitude postman](https://user-images.githubusercontent.com/108131019/190114471-3fa723a9-aeec-421a-9846-1dd765cf4c94.jpeg)
 
 
+week 9 node red
+
+![node red ultrasonic](https://user-images.githubusercontent.com/108131019/190115186-4c483165-e4cb-427c-a40c-2ad0ccd1798d.jpeg)
+
+
 Tugas Technical Assignment Week 10 Proses mengirimkan data sensor ke Ubidots Disini saya menggunakan data sensor dari sensor Ultrasonik, temperature, vibration
 
 ![dashboard ubidots](https://user-images.githubusercontent.com/108131019/190113536-48c2a3f2-db49-428b-8728-c05c74e483c1.jpg)
